@@ -2,7 +2,7 @@ import time
 
 def main():
     while True:
-        print("hello World")
+        print("hello Wealth!!!")
         time.sleep(3)
 
 
